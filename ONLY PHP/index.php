@@ -16,9 +16,7 @@
   <main>
     <?php include_once __DIR__ . "/database/arrDiscs.php"; ?>
     <?php include_once __DIR__ . '/includes/main.php'; ?>
-
   </main>
-
 </body>
 
 </html>
