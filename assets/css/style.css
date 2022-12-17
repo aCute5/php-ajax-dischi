@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  align-items: center;
+  background-color: #2e3a46;
+  height: 10vh;
+  justify-content: flex-start;
+}
+main .container-fluid {
+  background-color: #1e2d3b;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+main .row {
+  width: 800px;
+  gap: 2rem;
+}
+
+footer {
+  height: 5rem;
+  background-color: black;
+  color: beige;
+}
